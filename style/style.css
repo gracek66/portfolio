@@ -393,6 +393,14 @@ section.primary {
     background-image: url("../image/pjcover_todolist.png");
 }
 
+.feature_pj_8{
+    background-image: url("../image/pjcover_greenhouse.png");
+}
+
+.feature_pj_9{
+    background-image: url("../image/pjcover_print.png");
+}
+
 .feature_pj {
     cursor: pointer;
     width: 100%;
